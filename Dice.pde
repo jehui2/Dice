@@ -1,5 +1,8 @@
+Die one;
+Die two;
 void setup()
 {
+	size (400, 400);
 	noLoop();
 }
 void draw()
